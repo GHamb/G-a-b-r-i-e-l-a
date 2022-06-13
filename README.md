@@ -20,7 +20,7 @@ A principal funcionalidade deste repositório é **EXALTAR** uma amiga que eu am
 
 ## Funcionalidades
 
-- Bem eu queria fazer algo muito elaborado e cheio de especialidades, porém a minha memória e bem pior que a da Dory, então acabei esquecendo de preparar algo( *DESCULPA NÃO DESISTE DE MIM* **(;--;)**) então estou escrevendo isso da forma mais autentica e verdadeira (~~que se chama escrever de última hora~~).
+- Bem eu queria fazer algo muito elaborado e cheio de especialidades, porém a minha memória e bem pior que a da Dory, então acabei esquecendo de preparar algo( *DESCULPA NÃO DESISTE DE MIM* **(;--;)**), então estou escrevendo isso da forma mais autentica e verdadeira (~~que se chama escrever de última hora~~).
 
 - Não achei nada melhor que te fazer um repositório, afinal isso marca o ponto de virada de chave na sua vida, sendo essa virada uma situação que me deixa muito feliz ( ***A MELHOR SENSAÇÃO DO MUNDO E VER VOCÊ SE DANDO BEM COM MUNDO DA TECNOLOGIA*** ).
 
